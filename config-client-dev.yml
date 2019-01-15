@@ -1,6 +1,10 @@
-myww:
-  myww version 2
+#测试
 mytest:
   test version 1.0
-mytest1:
-  test1 version 1.0
+  
+#mq配置
+rabbitmq:
+  host: 127.0.0.1
+  port: 5672
+  username: guest
+  password: guest
