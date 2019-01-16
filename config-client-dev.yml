@@ -1,10 +1,3 @@
 #测试
 mytest:
-  test version 1.1
-  
-#mq配置
-rabbitmq:
-  host: 127.0.0.1
-  port: 5672
-  username: guest
-  password: guest
+  test version 2.0
